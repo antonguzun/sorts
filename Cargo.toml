@@ -1,7 +1,7 @@
 [package]
 name = "sorts"
 version = "0.1.0"
-authors = ["antonguzun <anton.guzun@fincollect.cz>"]
+authors = ["antonguzun"]
 edition = "2018"
 
 [dependencies]
