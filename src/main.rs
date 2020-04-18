@@ -1,7 +1,6 @@
 extern crate rand;
 
 use rand::distributions::Standard;
-use rand::{thread_rng, Rng};
 use std::time::Instant;
 
 fn bubble_sort(array: &mut Vec<i32>) {
