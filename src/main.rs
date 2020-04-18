@@ -71,7 +71,7 @@ fn main() {
     let start = Instant::now();
     x.sort();
     let duration = start.elapsed();
-    println!("Time elapsed default sort: {:?}", duration);
+    println!("Time elapsed in default sort: {:?}", duration);
 
     let start = Instant::now();
     let sorted_list = merge_sort(y);
